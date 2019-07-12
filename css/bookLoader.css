@@ -8,7 +8,7 @@
     overflow: hidden;
     width: 100px;
     height: auto;
-    margin: 72px auto;
+    margin: 10vh auto;
     position: relative;
     animation: round 0.5s infinite ease;
 }
